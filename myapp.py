@@ -1,7 +1,6 @@
 import streamlit as st
 import requests
 import json
-import pyperclip
 
 
 # Function to translate using Deep Translate API
